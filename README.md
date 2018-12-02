@@ -20,6 +20,9 @@ To achieve this, there are four different components in this app:
 3. `BookAdapter` - Responsible for mapping each `Book` to a particular view layout
 4. `BookListActivity` - Responsible for fetching and deserializing the data and configuring the adapter
 
+## Walkthrough
+![Igmur](https://i.imgur.com/maMMeav.gif)
+
 ## Usage
 This app is intended to be the base project on top of which new features can be added. To use it, clone the project and import it using the following steps:
 
